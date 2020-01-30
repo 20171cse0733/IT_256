@@ -1,7 +1,7 @@
 
 <html>	
 <head>		
-<title>This is document title</title>	
+<title>This is document file title</title>	
 </head>
 	<body bgcolor="f5aeef">			
 <h1> align="middle"><b>Submission status</b></h1>
